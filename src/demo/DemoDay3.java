@@ -3,6 +3,9 @@ package demo;
 public class DemoDay3 {
 	public static void main(String[] args) {
 		System.out.println("Demo..");
+		System.out.println("Sara");
+		System.out.println("Code");
+		System.out.println("Holly Java");
 	}
 
 	public static void add(int a, int b) {
