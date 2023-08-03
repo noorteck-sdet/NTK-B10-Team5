@@ -10,6 +10,10 @@ public class DemoDay3 {
 
 	public static void add(int a, int b) {
 		System.out.println(a + b);
+		
+		System.out.println("Sara2");
+		System.out.println("Code2");
+		System.out.println("Holly Java2");
 	}
 
 	public static void add2(int a, int b, int c) {
