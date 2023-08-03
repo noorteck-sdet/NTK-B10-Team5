@@ -27,6 +27,7 @@ public class DemoDay3 {
 		System.out.println(a + b + c);
 		System.out.println("Holly Java3");
 		System.out.println("Holly Java4");
+		System.out.println("HI....................");
 	}
 
 	public static void divide(int a, int b) {
