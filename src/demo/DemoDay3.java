@@ -13,9 +13,14 @@ public class DemoDay3 {
 		
 		System.out.println("Sara2");
 		System.out.println("Code2");
+
+		System.out.println("codessssss");
+		System.out.println("codessssssxsd");
+
 		System.out.println("Holly Java2");
 		System.out.println("Holly Java4");
 		System.out.println("Sara3");
+
 	}
 
 	public static void add2(int a, int b, int c) {
@@ -26,4 +31,6 @@ public class DemoDay3 {
 	public static void divide(int a, int b) {
 		System.out.println(a / b);
 	}
+	
+	
 }
