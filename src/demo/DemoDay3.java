@@ -14,6 +14,7 @@ public class DemoDay3 {
 		System.out.println("Sara2");
 		System.out.println("Code2");
 		System.out.println("Holly Java2");
+		System.out.println("Holly Java4");
 	}
 
 	public static void add2(int a, int b, int c) {
