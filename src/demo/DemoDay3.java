@@ -17,7 +17,7 @@ public class DemoDay3 {
 		System.out.println("codessssss");
 		System.out.println("codessssssxsd");
 
-		System.out.println("Holly Java2");
+		System.out.println("Holly Java45");
 
 	}
 
