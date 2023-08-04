@@ -10,7 +10,7 @@ public class DemoDay3 {
 
 	public static void add(int a, int b) {
 		System.out.println(a + b);
-		
+
 		System.out.println("Sara2");
 		System.out.println("Code2");
 
@@ -27,12 +27,13 @@ public class DemoDay3 {
 		System.out.println(a + b + c);
 		System.out.println("Holly Java3");
 		System.out.println("Holly Java4");
-		System.out.println("HI....................");
+		System.out.println("ssjsjsjsjsj");
+		System.out.println("Holly Java5");
+
 	}
 
 	public static void divide(int a, int b) {
 		System.out.println(a / b);
 	}
-	
-	
+
 }
