@@ -17,13 +17,26 @@ public class DemoDay3 {
 		System.out.println("codessssss");
 		System.out.println("codessssssxsd");
 
-		System.out.println("Holly Java45");
+
+
+		System.out.println("Holly Java2");
+		System.out.println("Holly Java4");
+		System.out.println("Sara3");
+
+
+
+		System.out.println("Sara4");
+
+
 
 	}
 
 	public static void add2(int a, int b, int c) {
 		System.out.println(a + b + c);
 		System.out.println("Holly Java3");
+		System.out.println("Holly Java4");
+		System.out.println("Holly Java5");
+		System.out.println("Saturday");
 	}
 
 	public static void divide(int a, int b) {
