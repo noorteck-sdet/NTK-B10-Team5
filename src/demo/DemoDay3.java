@@ -17,9 +17,19 @@ public class DemoDay3 {
 		System.out.println("codessssss");
 		System.out.println("codessssssxsd");
 
+
+
 		System.out.println("Holly Java2");
 		System.out.println("Holly Java4");
 		System.out.println("Sara3");
+		
+		System.out.println("Holly Java6");
+
+
+
+		System.out.println("Sara4");
+
+
 
 	}
 
@@ -27,8 +37,11 @@ public class DemoDay3 {
 		System.out.println(a + b + c);
 		System.out.println("Holly Java3");
 		System.out.println("Holly Java4");
-		System.out.println("ssjsjsjsjsj");
+
+
+
 		System.out.println("Holly Java5");
+		System.out.println("Saturday");
 
 	}
 
