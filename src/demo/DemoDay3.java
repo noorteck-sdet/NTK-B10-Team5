@@ -33,6 +33,7 @@ public class DemoDay3 {
 		System.out.println("Holly Java3");
 		System.out.println("Holly Java4");
 		System.out.println("Holly Java5");
+		System.out.println("Saturday");
 	}
 
 	public static void divide(int a, int b) {
