@@ -20,7 +20,11 @@ public class DemoDay3 {
 		System.out.println("Holly Java2");
 		System.out.println("Holly Java4");
 		System.out.println("Sara3");
-		System.out.println("Sara 5");
+
+
+
+		System.out.println("Sara4");
+
 
 	}
 
@@ -28,6 +32,7 @@ public class DemoDay3 {
 		System.out.println(a + b + c);
 		System.out.println("Holly Java3");
 		System.out.println("Holly Java4");
+		System.out.println("Holly Java5");
 	}
 
 	public static void divide(int a, int b) {
